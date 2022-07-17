@@ -1,0 +1,89 @@
+deemed признанный расматриваемый считать полагать
+failover отказоустойчивость
+stakeholder заинтересованная сторона
+outstanding неразрешенный
+derive выводить
+disclose разоблачать
+feasible осуществимый
+imply подразумевать
+amend изменить
+facilitate способствовать
+facilitator пособник
+facility объект
+domain область, сфера
+intake впускной
+interoperability совместимость
+adjacent примыкающий
+suffice достаточно
+compliance соответствие
+implicitly косвенным образом
+peer равный
+impact влияние
+сompliant соответствие,уступчивый
+resumption возобновление
+suspended приостановленный
+discrepancy несоответствие
+ascertain выяснять
+approach подход
+mitigate смягчать
+robustness прочность
+conceive воспринимать
+thoroughness тщательность
+adversely неблагоприятно
+rigorous строгий
+refinement улучшение
+adherence приверженность
+elicitation выявление
+omission упущение
+superfluous избыточный
+omitting пропускать
+explicit явный 
+whilst в то время как
+residual остаточный
+bias - предвзятость
+impede препятствовать
+precede предшедствовать
+mandatory обязательный
+extent - степень, мера
+drawback - недостаток
+scaffolding - подмостки
+retention - удержание, сохранение
+reside - находиться, обитать, проживать
+chunk - кусок
+exasperation - раздражение
+embedded - встроенный
+endeavor стремление, усилие
+span - промежуток, интервал
+imposed - наложенный, навязанный
+curtailed- сокращенный, ограниченный
+proactive - упреждающий
+contingency - случайности
+intrusive - навязчивый
+neglected - проигнорирована, упущена
+daunting - пугающий
+platoon - взвод
+comprise - включать
+mediate - посредничать
+collate - сопоставлять
+advent - появление, пришествие
+interim - промежуточный
+outline - обрисовывать, описывать, контур
+excerpt - выписка, выдержка
+infringement - нарушение
+infer - делать вывод, подразумевать
+tangible - ощутимый
+draft - проект
+prematurely - преждевременно
+flaky - слоеный, слоистый
+engage - вовлекать
+simultaneous - одновременный
+tailor - подгонять, адаптировать
+worthwhile - стоящий
+inferior - худший,низший, неполноценный
+constituent - составная часть, компонента
+susceptibility - восприимчивость, чувствительность
+decommission - списывать
+flaw -  недостаток, изъян
+comply соблюдать, выполнять
+commit - совершить, зафиксировать
+coupling - связь
